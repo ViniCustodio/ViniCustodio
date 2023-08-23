@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/ViniCustodio/ViniCustodio/blob/main/capa.png"  />
+  <img src="https://github.com/ViniCustodio/ViniCustodio/blob/main/capa.png"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Vinicius Custódio</h1>
