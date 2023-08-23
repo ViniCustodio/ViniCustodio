@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Custódio</h1>
-<h3 align="center">Estudante de desenvolvimento mobile</h3>
+<h3 align="center">Mobile development student</h3>
 
-- 🔭 I’m currently working on **Desenvolvimento app educacional**
+- 🔭 I’m currently working on **Developing educational app**
 
 - 🌱 I’m currently learning **Java, Kotlin, Android Studio**
 
